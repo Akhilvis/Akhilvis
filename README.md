@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akhilvis
-- 👀 I’m interested in ...coding , travelling, cinematography
-- 🌱 I’m currently learning ...blockchain technologies, smart contracts...
+- 👀 I’m interested in ...coding , traveling, cinematography
+- 🌱 I’m currently learning ... DevOps technologies, docker, Jenkins, and Kubernetes...
 - 📫 How to reach me ... akhilviswam000@gmail.com
 
 <!---
